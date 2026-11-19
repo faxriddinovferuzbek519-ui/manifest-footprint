@@ -1,0 +1,11 @@
+{
+  "name": "sample-app",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "lodash": "4.17.20"
+  },
+  "devDependencies": {
+    "vitest": "^1.0.0"
+  }
+}
